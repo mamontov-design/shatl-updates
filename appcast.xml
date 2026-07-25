@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shatl</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 25 Jul 2026 17:11:11 +0700</pubDate>
+            <link>https://github.com/mamontov-design/Shatl</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="2Sc0oZhCnDbnMJqH6dkFWd34jxrjDsd0LHgfbW78vNh2vh32hLWLpUS+RJDLG2ZT0s+Hh9P+23KFUvv3LSePAQ==" sparkle:length="1437">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0/Shatl-1.0.zip" length="16206855" type="application/octet-stream" sparkle:edSignature="yui7I0Xlr5BGAFUZuSvW+a9iYu7t0VTJ3GOb3Zcnsj43/QccAKCbwVNzSAM6Kp/jbWTF8koTQxR53knp4JXfAw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: GCxOo4D+XuhyB9K/aETO1Ix4N+D9TLwB0322+lHZ/ModE1eZBVEv/IR3ivvJHGSm1B+xHXqCkKcgZq9TNmHbDQ==
+length: 1381
+-->
