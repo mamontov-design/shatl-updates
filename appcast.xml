@@ -5,16 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Shatl</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 25 Jul 2026 17:11:11 +0700</pubDate>
+            <pubDate>Thu, 27 Aug 2026 22:54:49 +0700</pubDate>
             <link>https://github.com/mamontov-design/Shatl</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink sparkle:edSignature="2Sc0oZhCnDbnMJqH6dkFWd34jxrjDsd0LHgfbW78vNh2vh32hLWLpUS+RJDLG2ZT0s+Hh9P+23KFUvv3LSePAQ==" sparkle:length="1437">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0/Shatl-1.0.zip" length="16206855" type="application/octet-stream" sparkle:edSignature="yui7I0Xlr5BGAFUZuSvW+a9iYu7t0VTJ3GOb3Zcnsj43/QccAKCbwVNzSAM6Kp/jbWTF8koTQxR53knp4JXfAw=="></enclosure>
+            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0/Shatl-1.0.zip" length="17344677" type="application/octet-stream" sparkle:edSignature="BD8r5Hc0ipVXZ1xF70t0BYT1ydNpXoi0Jr+9yfru8t8X1ni57GQAsA6qPlfk1wZtoP/cHlwsD7OdY/JvoguIBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GCxOo4D+XuhyB9K/aETO1Ix4N+D9TLwB0322+lHZ/ModE1eZBVEv/IR3ivvJHGSm1B+xHXqCkKcgZq9TNmHbDQ==
-length: 1381
+edSignature: w5BwPeGo1JrVZMkQhnPI/AXLOyM9dQVfx6HbZ0vWTmP4hw7D7fGvW/yfjDCIfgLrhpHbby/M7A1pZPCdD3MoAw==
+length: 1460
 -->
