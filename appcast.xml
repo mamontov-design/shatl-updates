@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Shatl</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Thu, 27 Aug 2026 22:54:49 +0700</pubDate>
+            <title>1.0.1</title>
+            <pubDate>Sun, 04 Oct 2026 18:51:37 +0700</pubDate>
             <link>https://github.com/mamontov-design/Shatl</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="2Sc0oZhCnDbnMJqH6dkFWd34jxrjDsd0LHgfbW78vNh2vh32hLWLpUS+RJDLG2ZT0s+Hh9P+23KFUvv3LSePAQ==" sparkle:length="1437">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0/Shatl-1.0.zip" length="17344677" type="application/octet-stream" sparkle:edSignature="BD8r5Hc0ipVXZ1xF70t0BYT1ydNpXoi0Jr+9yfru8t8X1ni57GQAsA6qPlfk1wZtoP/cHlwsD7OdY/JvoguIBw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="vLapMaZASWwS1EJJo1t5NEvpWVW6sT/yVgJYTmTuAX8EOsxycCl7cQYwsFy5BXycy9NTCAiX4jvbf0FEedsyBQ==" sparkle:length="1443">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0.1/Shatl-1.0.1.zip" length="12286038" type="application/octet-stream" sparkle:edSignature="lGZv0r52CtUk1zjefEXAMHtdbFWbVdXStFqcW7jQ7pLIeyzKvunV+qqFm6b656wCx3ucqqJ29HJ8u3hmr9tkBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: w5BwPeGo1JrVZMkQhnPI/AXLOyM9dQVfx6HbZ0vWTmP4hw7D7fGvW/yfjDCIfgLrhpHbby/M7A1pZPCdD3MoAw==
-length: 1460
+edSignature: oqC29Pk9RSsPnIu8IYwsmPCBTCqG67IyB4GAbIZk9YQ/CtTkJmov4cTEFiam+Ys7ylrhC2TwDVMygt9+WKpnCg==
+length: 1470
 -->
