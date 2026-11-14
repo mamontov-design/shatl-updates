@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Shatl</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Tue, 03 Nov 2026 16:13:25 +0700</pubDate>
+            <title>1.0.6</title>
+            <pubDate>Sun, 15 Nov 2026 02:49:42 +0700</pubDate>
             <link>https://github.com/mamontov-design/Shatl</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="o7gfvtPnH6GF9Ot92AcFwvLdNA8+aek4F4/G5nudiYyOBRALJNPoH9ZszMHO7UtU+v7Vk9fMq3KLoSYuc3VBBg==" sparkle:length="2848">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0.5/Shatl-1.0.5.zip" length="12668155" type="application/octet-stream" sparkle:edSignature="YofAb3JeqxkrDY4CdJjNvFtlHppoREFH6HQb2GeiJN+/cd3E+zgikkvv3FFol63Ozc0ld28QhEK3TG09UauWCg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="IdmMkVORlEir2VlvyTMjae0plobeNkpDbbw2n6itb5611DP/FZHBv2YhT6cOkJaj5GptAKAXcV/WTw8faYgcCg==" sparkle:length="5250">https://mamontov-design.github.io/shatl-updates/release-notes/Shatl-1.0.6.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mamontov-design/shatl-updates/releases/download/v1.0.6/Shatl-1.0.6.zip" length="12931542" type="application/octet-stream" sparkle:edSignature="eTUz0WMqihhd9t7hh6l1VxqFXZ52dUnrKMHxFGEUL8P1KZOlOWh63APkR/wfZ+iwvWKoXLpD/+QCbQZjEmlwBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OKjEai1E1+NJ4Fw56Vhs78eBXgUQPMTbany0/vuDe5th51tCdYo8+CxMfiAX0aXDt4hKstxEFu9DWtI/sh8fDA==
+edSignature: R/RcnNWe2pk+AeCWedxeE2dmNgXYwguzDscTX5BAoqQwKLkSce9DuQKajH35hAy+2G3jHwo5T1bvjcGW2CBaCQ==
 length: 1470
 -->
